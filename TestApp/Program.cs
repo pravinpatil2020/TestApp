@@ -13,6 +13,7 @@ namespace TestApp
     {
         public static void Main(string[] args)
         {
+            //Wow this is amazing
             CreateHostBuilder(args).Build().Run();
         }
 
